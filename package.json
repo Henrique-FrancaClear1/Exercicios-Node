@@ -1,0 +1,45 @@
+{
+
+  "name": "exercicio_node",
+
+  "version": "1.0.0",
+
+  "main": "ex01.js",
+
+  "scripts": {
+
+
+  "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "repository": {
+
+
+  "type": "git",
+
+
+  "url": "git+https://github.com/Henrique-FrancaClear1/Exercicios-Node.git"
+
+  },
+
+  "author": "",
+
+  "license": "ISC",
+
+  "bugs": {
+
+
+  "url": "https://github.com/Henrique-FrancaClear1/Exercicios-Node/issues"
+
+  },
+
+  "homepage": "https://github.com/Henrique-FrancaClear1/Exercicios-Node#readme",
+
+  "description": "",
+
+  "dependencies": {
+  "lodash": "^4.17.21"
+
+  }
+}
